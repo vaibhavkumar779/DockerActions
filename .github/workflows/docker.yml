@@ -1,4 +1,4 @@
-name: Docker Imag
+name: Docker Image build and publish
 
 on:
   push:
