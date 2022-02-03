@@ -36,9 +36,5 @@ pipeline {
         }
     }
 
-    post{
-        success{
-            echo "successful"
-        }
-    }
+   
 }
